@@ -1,0 +1,15 @@
+package com.springboot.evf.idat.edu.pe.productos_crud;
+
+import org.springframework.boot.SpringApplication;
+import org.springframework.boot.autoconfigure.SpringBootApplication;
+
+
+@SpringBootApplication
+
+public class ProductosCrudApplication {
+
+	public static void main(String[] args) {
+		SpringApplication.run(ProductosCrudApplication.class, args);
+	}
+
+}
